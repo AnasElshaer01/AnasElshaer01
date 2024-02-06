@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning GenAI & LLMS  <br>🎯 Goals: Be Extraordinary AI Engineer <br>🎲 Fun fact: I Love Tea More Than My Future Wife <br> 🏢 Former Intern at Dell Technologies & Technocolbas softwares  </p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning Gen-AI & LLMS  <br>🎯 Goals: Be Extraordinary AI Engineer <br>🎲 Fun fact: I Love Tea More Than My Future Wife <br> 🏢 Former Intern at Dell Technologies & Technocolbas softwares  </p>
 
 ###
   
@@ -61,7 +61,7 @@
 ## Contact Me
 <a href="https://linkedin.com/in/anas-elshaer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-elshaer01" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/anassalaheldin " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anas salah el-din" height="30" width="40" /></a>
-<a href="https://twitter.com/anassalah941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anassalah941" height="30" width="40" /></a>
+<a href="https://twitter.com/anas_ai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anassalah941" height="30" width="40" /></a>
 
 
 
