@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning GENAI & LLMS  <br>🎯 Goals: Be Extraordinary AI Engineer <br>🎲 Fun fact: I Love Tea More Than My Future Wife <br> 🏢 Former Intern at Dell Technologies & Technocolbas softwares  </p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning GenAI & LLMS  <br>🎯 Goals: Be Extraordinary AI Engineer <br>🎲 Fun fact: I Love Tea More Than My Future Wife <br> 🏢 Former Intern at Dell Technologies & Technocolbas softwares  </p>
 
 ###
   
