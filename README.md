@@ -52,6 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="php" width="45" height="45"/> <a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="php" width="45" height="45"/>
+   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="php" width="45" height="45"/>
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="php" width="45" height="45"/> </a>
 
 
