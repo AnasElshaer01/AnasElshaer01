@@ -1,20 +1,7 @@
 
 <div align="center">
   <img src="https://github.com/AnasElshaer01/AnasElshaer01/blob/main/Photo/1791313718996.jpg" alt="Anas Elshaer" height="200" />
-
-  <h1>Anas Elshaer</h1>
-  <h3>Full-Stack AI Software Engineer</h3>
-
-  <p>
-    Building end-to-end software products, intelligent systems, and AI-driven solutions.
-  </p>
-
-  <a href="https://anaselshaer01.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/anas-elshaer01/">LinkedIn</a> ·
-  <a href="https://github.com/AnasElshaer01">GitHub</a>
 </div>
-
----
 
 ### About Me
 
