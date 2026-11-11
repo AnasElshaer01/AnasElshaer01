@@ -34,7 +34,7 @@ My work focuses on:
 
 **AI & LLM Technologies**
 
-`LangChain` · `LangGraph` · `LlamaIndex` · `ChromaDB` · `RAG` · `LLM Fine-Tuning` · `Vector Search`
+`LangChain` · `LangGraph` · `LlamaIndex` · `vector databases` · `RAG` · `LLM Fine-Tuning` · `Vector Search`
 
 **Automation & Integrations**
 
