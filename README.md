@@ -1,80 +1,111 @@
+
 <div align="center">
-<img height="200" src="https://github.com/AnasElshaer01/AnasElshaer01/blob/main/Photo/Anas%20cover.jpg"  />
+  <img src="https://github.com/AnasElshaer01/AnasElshaer01/blob/main/Photo/Anas%20cover.jpg" alt="Anas Elshaer" height="200" />
+
+  <h1>Anas Elshaer</h1>
+
+  <h3>Full-Stack AI Software Engineer</h3>
+
+  <p>
+    I build software products from the ground up, with AI where it actually makes a difference.
+  </p>
+
+  <p>
+    <a href="https://anaselshaer01.github.io/">Portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/anas-elshaer01/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/AnasElshaer01">GitHub</a>
+  </p>
 </div>
-  
-<h1 align="left">Hey 👋 What's up?</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F2F0&center=true&vCenter=true&width=435&lines=HI+!+I+Am+Anas+Elshaer+;AI+%26+ML+Engineer)](https://git.io/typing-svg)
+---
 
+### A little about me
 
-###
+I'm a Full-Stack AI Software Engineer who enjoys working across the entire product, from figuring out what needs to be built to designing the architecture, writing the code, and getting it into production.
 
-<h2 align="left">About Me</h2>
+My work sits at the intersection of **software engineering, AI, and product development**.
 
+That means I'm just as interested in designing a reliable backend or a clean user experience as I am in building an LLM pipeline, orchestrating AI agents, or connecting different systems together.
 
-###
+I've previously interned at **Dell Technologies** and worked in both startup and corporate environments.
 
-<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning Gen-AI & LLMS  <br>🎯 Goals: Be Extraordinary AI Engineer <br>🎲 Fun fact: I Love Tea More Than My Future Wife <br> 🏢 Former Intern at Dell Technologies & Technocolbas softwares  </p>
+These days, most of what I build falls into a few areas:
 
-###
-  
- 
+- **Full-stack products** — Interfaces, APIs, backend services, databases, and everything connecting them.
+- **AI applications** — LLMs, RAG, agentic workflows, and practical AI integrations.
+- **Automation** — Making separate tools, services, and business processes work together.
+- **Infrastructure** — Taking applications beyond localhost with cloud deployments, containers, and CI/CD.
 
+---
 
-###
+### The engineering side
 
-<h1 align="left"> Programming Languages & Tools</h1>
+The technologies I use depend on the problem, but this is the stack I regularly work with.
 
+**Languages & Application Development**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> <a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="hadoop" width="70" height="40" />
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,fastapi,django" alt="Python, TypeScript, JavaScript, Next.js, React, Node.js, FastAPI, Django" />
+</p>
 
+**Data & Backend Architecture**
 
-
-<h1 align="left"> Frameworks </h1>
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="45" height="45"/></a>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tf" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pand" width="45" height="45"/>
-     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Numpy" width="100" height="50"/>
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="seaborn" width="45" height="45"/> </h>
-<h1 align="left">Others</h1>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="php" width="45" height="45"/> <a>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="php" width="45" height="45"/>
-   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="php" width="50" height="50"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="php" width="45" height="45"/> </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" />
+</p>
 
 
 
+**Cloud & Delivery**
 
-
-## Contact Me
-<a href="https://linkedin.com/in/anas-elshaer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-elshaer01" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/anassalaheldin " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anas salah el-din" height="30" width="40" /></a>
-<a href="https://twitter.com/anas_ai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anassalah941" height="30" width="40" /></a>
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,githubactions" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Linux, Git, GitHub Actions" />
+</p>
 
 
 
+---
 
+### Where AI fits in
 
+I work with AI as part of the application architecture, not as a separate feature added at the end.
 
+My focus is on connecting models with the data, tools, and backend systems they need to be useful.
 
+| Area | What I work on |
+|---|---|
+| **LLM Engineering** | Model integration, fine-tuning, prompt and context engineering, function calling, structured outputs, and evaluation |
+| **Agentic Systems** | Tool calling, multi-agent collaboration, stateful workflows, memory, and external API integrations |
+| **RAG & Retrieval** | Document ingestion, parsing, chunking, embeddings, vector databases, semantic search, relevance filtering, reranking, and grounded generation |
+| **AI Orchestration** | LangChain, LangGraph, and LlamaIndex for developing LLM applications, controlled agent workflows, and data-centric AI systems |
 
+---
 
+### Making systems work together
 
+Not every problem needs a new application. Sometimes the better solution is connecting the systems that already exist.
 
+I build workflows around APIs, webhooks, event-driven processes, and AI-powered automation, using tools like **n8n** and **Make** when they fit.
 
+---
 
+### What that looks like in practice
+
+The kinds of systems I'm interested in building:
+
+- **AI-powered SaaS platforms** that bring useful intelligence into everyday workflows.
+- **Full-stack applications** with reliable backend services and scalable architectures.
+- **Knowledge retrieval systems** that make private and domain-specific information easier to access.
+- **AI agents** that retrieve context, use tools, coordinate tasks, and interact with external systems.
+- **Data-driven applications** that help people explore information and make decisions without needing technical expertise.
+- **Business automation systems** that reduce repetitive work through integrations and intelligent workflows.
+
+---
+
+### Find me elsewhere
+
+I'm always interested in interesting engineering problems, product ideas, and conversations about building software.
+
+**[Portfolio](https://anaselshaer01.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/anas-elshaer01/)** · **[GitHub](https://github.com/AnasElshaer01)** · **[X / Twitter](https://twitter.com/anas_ai1)**
