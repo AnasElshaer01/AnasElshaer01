@@ -3,109 +3,74 @@
   <img src="https://github.com/AnasElshaer01/AnasElshaer01/blob/main/Photo/1791313718996.jpg" alt="Anas Elshaer" height="200" />
 
   <h1>Anas Elshaer</h1>
-
   <h3>Full-Stack AI Software Engineer</h3>
 
   <p>
-    I build software products from the ground up, with AI where it actually makes a difference.
+    Building end-to-end software products, intelligent systems, and AI-driven solutions.
   </p>
 
-  <p>
-    <a href="https://anaselshaer01.github.io/">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/anas-elshaer01/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/AnasElshaer01">GitHub</a>
-  </p>
+  <a href="https://anaselshaer01.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/anas-elshaer01/">LinkedIn</a> ·
+  <a href="https://github.com/AnasElshaer01">GitHub</a>
 </div>
 
 ---
 
-### A little about me
+### About Me
 
-I'm a Full-Stack AI Software Engineer who enjoys working across the entire product, from figuring out what needs to be built to designing the architecture, writing the code, and getting it into production.
+I'm a **Full-Stack AI Software Engineer** working across software development, AI, and product architecture — from designing systems and building applications to deploying production-ready solutions.
 
-My work sits at the intersection of **software engineering, AI, and product development**.
+Previously interned at **Dell Technologies**, with experience in startup and corporate environments.
 
-That means I'm just as interested in designing a reliable backend or a clean user experience as I am in building an LLM pipeline, orchestrating AI agents, or connecting different systems together.
+My work focuses on:
 
-I've previously interned at **Dell Technologies** and worked in both startup and corporate environments.
-
-These days, most of what I build falls into a few areas:
-
-- **Full-stack products** — Interfaces, APIs, backend services, databases, and everything connecting them.
-- **AI applications** — LLMs, RAG, agentic workflows, and practical AI integrations.
-- **Automation** — Making separate tools, services, and business processes work together.
-- **Infrastructure** — Taking applications beyond localhost with cloud deployments, containers, and CI/CD.
+- **Full-Stack Engineering:** Frontend, backend, APIs, databases, and scalable architectures.
+- **AI & LLM Systems:** Fine-tuning, RAG, multi-agent workflows, tool calling, and model integration.
+- **Automation:** APIs, webhooks, n8n, Make, and business workflows.
+- **Cloud & DevOps:** Cloud infrastructure, containers, CI/CD, and deployment.
 
 ---
 
-### The engineering side
+### Tech Stack
 
-The technologies I use depend on the problem, but this is the stack I regularly work with.
-
-**Languages & Application Development**
+**Full-Stack Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,fastapi,django" alt="Python, TypeScript, JavaScript, Next.js, React, Node.js, FastAPI, Django" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,fastapi,django" alt="Full-Stack Technologies" />
 </p>
 
-**Data & Backend Architecture**
+**Databases & Caching**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases and Caching" />
 </p>
 
+**AI & LLM Technologies**
 
+`LangChain` · `LangGraph` · `LlamaIndex` · `ChromaDB` · `RAG` · `LLM Fine-Tuning` · `Vector Search`
 
-**Cloud & Delivery**
+**Automation & Integrations**
+
+`n8n` · `Make` · `REST APIs` · `Webhooks`
+
+**Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,githubactions" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Linux, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,githubactions" alt="Cloud and DevOps Technologies" />
 </p>
 
+---
 
+### What I Build
+
+- **AI-powered SaaS** and full-stack applications.
+- **RAG systems** for enterprise knowledge and semantic search.
+- **AI agents** for tool execution and workflow orchestration.
+- **Scalable backend systems** and API integrations.
+- **Business automation** through AI and connected services.
 
 ---
 
-### Where AI fits in
+### Connect
 
-I work with AI as part of the application architecture, not as a separate feature added at the end.
-
-My focus is on connecting models with the data, tools, and backend systems they need to be useful.
-
-| Area | What I work on |
-|---|---|
-| **LLM Engineering** | Model integration, fine-tuning, prompt and context engineering, function calling, structured outputs, and evaluation |
-| **Agentic Systems** | Tool calling, multi-agent collaboration, stateful workflows, memory, and external API integrations |
-| **RAG & Retrieval** | Document ingestion, parsing, chunking, embeddings, vector databases, semantic search, relevance filtering, reranking, and grounded generation |
-| **AI Orchestration** | LangChain, LangGraph, and LlamaIndex for developing LLM applications, controlled agent workflows, and data-centric AI systems |
-
----
-
-### Making systems work together
-
-Not every problem needs a new application. Sometimes the better solution is connecting the systems that already exist.
-
-I build workflows around APIs, webhooks, event-driven processes, and AI-powered automation, using tools like **n8n** and **Make** when they fit.
-
----
-
-### What that looks like in practice
-
-The kinds of systems I'm interested in building:
-
-- **AI-powered SaaS platforms** that bring useful intelligence into everyday workflows.
-- **Full-stack applications** with reliable backend services and scalable architectures.
-- **Knowledge retrieval systems** that make private and domain-specific information easier to access.
-- **AI agents** that retrieve context, use tools, coordinate tasks, and interact with external systems.
-- **Data-driven applications** that help people explore information and make decisions without needing technical expertise.
-- **Business automation systems** that reduce repetitive work through integrations and intelligent workflows.
-
----
-
-### Find me elsewhere
-
-I'm always interested in interesting engineering problems, product ideas, and conversations about building software.
-
-**[Portfolio](https://anaselshaer01.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/anas-elshaer01/)** · **[GitHub](https://github.com/AnasElshaer01)** · **[X / Twitter](https://twitter.com/anas_ai1)**
+[Portfolio](https://anaselshaer01.github.io/) · [LinkedIn](https://www.linkedin.com/in/anas-elshaer01/) · [GitHub](https://github.com/AnasElshaer01) · [X](https://twitter.com/anas_ai1)
